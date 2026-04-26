@@ -1,4 +1,4 @@
-package tp1.ejercicio2;
+package ejercicio2;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package tp1.ejercicio7c;
+package ejercicio7c;
 import java.util.ArrayList;
 import java.util.List;
 

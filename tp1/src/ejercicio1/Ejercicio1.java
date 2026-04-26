@@ -1,4 +1,4 @@
-package tp1.ejercicio1;
+package ejercicio1;
 
 public class Ejercicio1 {
 	public static void imprimirConFor(int a, int b) {
